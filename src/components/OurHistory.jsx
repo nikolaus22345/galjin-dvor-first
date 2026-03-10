@@ -2,10 +2,10 @@ import React from 'react';
 
 const OurHistory = () => {
     const events = [
-        { year: 'Tradicija', label: 'početci sadnje', desc: 'Dugogodišnja poljoprivredna tradicija našeg kraja odredila je i naš put. Na obroncima u okolici Blata zasađeni su prvi trsovi.', img: '/h1-workflow-1.png' },
-        { year: 'Znanje', label: 'udruživanje i edukacija', desc: 'Kroz suradnju s udrugama vinogradara s područja Korčule (edukacije o rezidbi), neprestano smo usavršavali naše tehnike.', img: '/h1-workflow-2.png' },
+        { year: 'Tradicija', label: 'početci sadnje', desc: 'Dugogodišnja poljoprivredna tradicija našeg kraja odredila je i naš put. Na obroncima u okolici Primoštena zasađeni su prvi trsovi obitelji Županović.', img: '/h1-workflow-1.png' },
+        { year: 'Znanje', label: 'čuvanje baštine', desc: 'Kroz stoljetno iskustvo težačkog rada i brižno njegovanje autohtonog Babića, neprestano smo usavršavali naše tehnike.', img: '/h1-workflow-2.png' },
         { year: 'Razvoj', label: 'modernizacija podruma', desc: 'S vremenom smo proširili naše kapacitete, ugradili suvremenu opremu, ali pritom zadržali stari vinski duh u podrumu.', img: '/h1-workflow-3.png' },
-        { year: 'Danas', label: 'otvoreni za vas', desc: 'Naš Vinski podrum Dine Vinery 1 otvoren je svakodnevno (0-24) uz prethodnu najavu, spremno dočekujući sve ljubitelje dobre kapljice.', img: null },
+        { year: 'Danas', label: 'otvoreni za vas', desc: 'Naš vinski podrum Galjin dvor otvoren je uz prethodnu najavu, spremno dočekujući sve ljubitelje vrhunskog Babića.', img: null },
     ];
 
     return (

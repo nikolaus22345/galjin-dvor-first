@@ -5,13 +5,13 @@ const Blog = () => {
         {
             date: '15. LIPANJ 2024',
             title: 'ZLATNA BERBA 2024',
-            excerpt: 'Ovogodišnja berba u Blatu obećava vrhunsku kvalitetu. Sunčani sati i idealni uvjeti stvorili su savršenu bazu za naša nova vina.',
+            excerpt: 'Ovogodišnja berba u primoštenskom zaleđu obećava vrhunsku kvalitetu. Sunčani sati i idealni uvjeti stvorili su savršenu bazu za naša nova vina.',
             img: 'https://images.unsplash.com/photo-1560493676-04071c5f467b?q=80&w=1000&auto=format&fit=crop'
         },
         {
             date: '02. SVIBANJ 2024',
             title: 'TAJNE NAŠEG PODRUMA',
-            excerpt: 'Otkrijte kako nastaju naša odležana crna vina. Proces zrenja u barrique bačvama daje vinima Dine karakterističnu dubinu i aromu.',
+            excerpt: 'Otkrijte kako nastaju naša odležana crna vina. Proces zrenja daje vinima Galjina dvora karakterističnu dubinu i aromu.',
             img: 'https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=1000&auto=format&fit=crop'
         },
         {

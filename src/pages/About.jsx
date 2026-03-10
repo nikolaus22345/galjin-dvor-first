@@ -37,12 +37,12 @@ const About = () => {
                             <div className="section-subtitle">Naša filozofija</div>
                             <h2 className="section-title">HARMONIJA PRIRODE I TRADICIJE</h2>
                             <p>
-                                Dine wines are born in the vineyards of the Sardelić family, near the place Blato on the island of Korčula, where the cellars are also located. In this hilly place, before juices start coursing through the vines, a drop of sweat from all the effort, constant striving and work transforms and becomes a drop of love, happiness and success…
+                                Vina Galjin dvor nastaju u vinogradima obitelji Županović, u okolici mjesta Kruševo u primoštenskom zaleđu. Na ovim krševitim, kamenitim padinama, prije nego što sokovi poteku kroz lozu, svaka kapljica znoja, odricanja i cjeloživotnog težačkog rada pretvara se u kap ljubavi, sreće i uspjeha...
                             </p>
                             <p>
-                                And as such arrives to the table in the Dine wines – without any additional transformation or modification. Generally, Dine wines are characterized by simplicity and originality. Each individual variety has been made into a wine which has been carefully controlled on the way from the vine to the bottle, so that the characteristics of the variety are easily recognizable in every wine. Sometimes these wines surprise us with their simplicity, and then convince us that that is exactly how wines should be. Just like every beginning… Just like youth… Bold, direct and daring… Exactly so!
+                                Upravo takva vina stižu na stolove - izravna, moćna i iskrena. Zato je svako naše vino odraz sorte i truda ruku koje ga vode od trsa do boce. S 94 boda već smo na pragu čistog decanterovog zlata, što svjedoči o dubokoj i neraskidivoj vezi s ovim škrtim, ali plemenitim tlom.
                             </p>
-                            <div className="signature">Sardelić</div>
+                            <div className="signature">Županović</div>
                         </div>
                     </div>
                 </div>
